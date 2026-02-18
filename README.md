@@ -14,6 +14,22 @@
 
 ---
 
+### 🚀 My Projects
+
+#### 🛡️ [BESAFE](https://https://github.com/sashabel1/BeSafe-Hackathon)
+**AI-Powered Safe Browsing & Social Network (Hackathon Project)**
+A comprehensive solution aimed at protecting users from offensive online content. 
+* **Chrome Extension:** Actively scans web pages using AI to detect harmful content. Upon detection, it triggers a supportive chatbot offering four actionable options: Emergency contacts, talking to a supportive bot, transitioning to our safe social network, and parental notifications (future development).
+* **Secure Social Network:** A dedicated platform featuring strict AI-based content filtering. Harmful direct messages are automatically blocked from being sent, and the platform enforces a "3-strikes" ban system for users attempting to post offensive content.
+
+#### ⏳ [HistoryFlow](https://github.com/sashabel1/HistoryFlow)
+**Dynamic AI Timeline Generator**
+An interactive web application that dynamically generates visual historical timelines by integrating AI, Wikipedia, and the Unsplash API.
+* **Core Feature:** Users input a topic, and the system automatically constructs a rich, chronological timeline.
+* **Explore & Discover:** Features pre-built timelines based on curated datasets, an "On This Day" integration, and the ability to drill down into specific sub-topics directly from an existing timeline.
+* **In Development:** A custom builder for users to create and manage their own personal timelines.
+
+---
 
 ### 🛠️ Languages & Technologies:
 
