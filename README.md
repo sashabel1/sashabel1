@@ -29,4 +29,4 @@
 
 
 🤝 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/alexandra-belkind) | Email: alexa2034@gmail.com
+LinkedIn: [Alexandra Belkind](https://www.linkedin.com/in/alexandra-belkind) | Email: alexa2034@gmail.com
